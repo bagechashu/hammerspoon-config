@@ -12,7 +12,7 @@ local app2Ime = {
     {'/Applications/Google Chrome.app', 'Chinese'},
     {'/Applications/DingTalk.app', 'Chinese'},
     {'/Applications/WeChat.app', 'Chinese'},
-    {'/Applications/QQ.app', 'Chinese'},,
+    {'/Applications/QQ.app', 'Chinese'},
     {'/Applications/IntelliJ IDEA CE.app', 'English'},
     {'/Applications/Visual Studio Code.app', 'English'},
     {'/Applications/System Preferences.app', 'English'},
