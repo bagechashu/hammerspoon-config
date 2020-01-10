@@ -17,6 +17,7 @@ local app2Ime = {
     {'/Applications/Visual Studio Code.app', 'English'},
     {'/Applications/System Preferences.app', 'English'},
     {'/System/Library/CoreServices/Finder.app', 'English'},
+    {'/System/Library/CoreServices/Spotlight.app', 'English'},
 }
 
 function updateFocusAppInputMethod()
